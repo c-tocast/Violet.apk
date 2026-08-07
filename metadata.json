@@ -1,0 +1,6 @@
+{
+  "name": "AI Task & Productivity Planner",
+  "description": "Android-style AI chat assistant for productivity, automatic task categorization, custom reminders, people profile tracking, and qualitative completion graphs.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
